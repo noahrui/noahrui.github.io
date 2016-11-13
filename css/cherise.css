@@ -1,0 +1,25 @@
+
+a {
+ color: red;
+
+}
+.text-color{color: orange;}
+
+.first-anchor {
+ color: white;
+}
+body{background-color: #380505 ;
+}
+img{
+  height:200px;
+  width:300px;
+  text-align: center;
+  display:block;
+}
+title{
+  color:white;
+  background-color: black;
+  text-align: center;
+  font-size: 80px;
+  display:block;
+}
